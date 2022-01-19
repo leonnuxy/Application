@@ -1,2 +1,2 @@
-# Application
+# Applications
 Simple Applications
