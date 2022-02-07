@@ -1,0 +1,58 @@
+Name: Noel Ugwoke
+ 
+Phone: 3064902929
+Email: 1leonnoel1@gmail.com
+GitHub:  github.com/leonnoel
+LinkedIn: linkedin.com/in/noelugwoke
+ 
+​Education   ​ 
+University of Calgary ​​​​​​​​​​   Calgary, Alberta
+Bachelor of Computer Science, BCS​​​​​​​                 August 2016 – May 2022
+ 
+Bow Valley College​​​​​​​​​​   ​   Calgary, Alberta
+Diploma (Dean’s List)​​​​​​​​​                  August 2016 – May 2022
+​   
+Skills   ​
+• Statistical analysis
+• Data Storage and Retrieval
+• RDMS Development and SQL
+• JS Frameworks: React, Angular, Vue
+• Project Management, Software Testing
+• Programming Languages: Java, C#, .Net, Python
+• Scripting Languages: PHP, Python, JavaScript
+• API Design and Development
+• Cloud Computing: AWS, GCP, IBM Cloud
+• Databases: Oracle, MongoDB
+• Source and Version Control: Git, GitHub
+• Front-End Programming: HTML5, CSS3, AJAX
+ 
+​Work History   ​ 
+Alberta Health Services ​​​​​​​​​​   Calgary, Alberta
+Analyst ​​​​​​​​​​             August 2021- February 2022
+• Managed and prioritized urgent needs while communicating plans with customers within 24 hours.
+• Created and reorganized SQL queries and scripts for internal troubleshooting, which decreased work tickets by 10%
+• Implemented time-series forecasting to predict surges in hospitals booking systems lowering average wait time by 5%
+• Designed model tests for user access of vaccine booking system, distributed to 5000+ AHS employees
+• Enhanced automated ticket reporting processes for external AHS contractors, resulting in 5% increase in efficiency.
+• Tested new implementations of diverse software and documented bugs for 7+ patch releases.
+ 
+Parkland Fuel Corporation​​​​​​​​​​   Calgary, Alberta
+Developer ​​​​​​​​​​             August 2020 – August 2021
+• Collected and constructed SQL query data from AWS for 630+ service stations to improve customer access by 15%
+• Analyzed systems ﬂow, data usage, and work processes, and investigated 15+ problem areas
+• Designed and coded 60+ unit/integration testing using Coronys, Datamaker and Agile Designer
+• Tested software for bugs and operating speed, ﬁxing bugs and documenting processes to increase efficiency by 10%
+• Built, managed and tested RESTful APIs that served data JavaScript and Python front-end based on user inputs
+• Working across AWS platforms, Sagemaker and Redshift to manage 3+ company client data
+• Resolved 30% of team assigned tickets using Jira platform
+ 
+Certifications   ​
+• IBM Cloud Development
+• AWS Application Development
+• Google IT Automation
+• Google Cloud Development
+ 
+Projects   ​
+Portfolio – Website (58+ unique visitors) created using APIs, Frontend design, Backend management and hosting services.
+Bookstore Database – Python App (10+ users) used to store, access and manage user input using active SQLite database.
+Self-Checkout System – Java App (Grocery Store Prototype) used Java UI design tools and OOP for realistic functionality.
