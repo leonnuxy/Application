@@ -48,8 +48,8 @@ def resume_parser(resume_file):
 
 if __name__ == '__main__':
     # Test
-    resume_file = 'resume.txt'
-    resume = resume_parser(resume_file)
-    print(resume)
-    # r = open(resume_file, 'r')
-    # print(r.read())
+    resume_file = './File_Processing/resume.txt'
+    # resume = resume_parser(resume_file)
+    # print(resume)
+    r = open(resume_file, 'r')
+    print(r.read())
